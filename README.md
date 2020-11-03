@@ -1,3 +1,3 @@
 # psychic-winner
 
-A student in neuroscience just getting into the programming world
+A neuroscience graduate learning coding!
